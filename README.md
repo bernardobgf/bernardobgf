@@ -17,7 +17,7 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=postgres" height="55" alt="postgresql logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=postman" height="55" alt="postman logo"  />
+
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="nodejs logo"  />
   <img width="10" />
