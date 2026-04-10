@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://tenor.com/pt-BR/view/rolling-cat-cat-rolling-green-gif-22772941)"  />
+  <img height="200" src="https://tenor.com/pt-BR/view/rolling-cat-cat-rolling-green-gif-22772941"  />
 </div>
 
 ###
